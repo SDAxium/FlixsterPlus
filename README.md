@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/l4HwbiB.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='https://i.imgur.com/l4HwbiB.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://i.imgur.com/l4HwbiB.gif (embed not working but is still set above)
 
 GIF created with Screen Record(Android)  
 ezif.com
