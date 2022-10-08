@@ -32,6 +32,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src="https://i.imgur.com/u59c4Ei.gif" width="40" height="40" />
 https://i.imgur.com/u59c4Ei.gif
+![](https://i.imgur.com/u59c4Ei.gif)
 
 GIF created with Screen Recorder(android) and ezgif.com
 
