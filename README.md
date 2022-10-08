@@ -1,8 +1,8 @@
-# Android Project 3 - *FlixsterPlus*
+# Android Project 4 - *FlixsterPlus*
 
 Submitted by: **Mamadou Diallo**
 
-**Name of your app** is a movie browsing app that allows users to browse movies currently playing in theaters.
+**FlixsterPlus** is a movie browsing app that allows users to browse movies currently playing in theaters.
 
 Time spent: **10** hours spent in total
 
